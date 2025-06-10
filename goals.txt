@@ -1,0 +1,5 @@
+My Personal and Academic Goals for Next Year
+I want to edicate at least 30 minutes a day to coding
+I want to contribbute to open source at least once a week
+I want to understand Version Control with Git and GitHub
+I want to have monthly review on my journey on Github
